@@ -20,26 +20,26 @@
 ### 用法
 
 ```
-姓名：
+NAME：
    jvms -适用于Windows 的JDK 版本管理器 (JVMS)
-的
-用法：
+
+USAGE:
    jvms.exe [全局选项] 命令 [命令选项] [参数...]
-的
-版本：
-   2.0.0 _
-的
-命令：
-     init 初始化配置文件
+
+VERSION:
+   2.0.0
+   
+COMMANDS:：
+     init        初始化配置文件
      list, ls    列出 JDK 安装。
-     install, i 安装远程可用的jdk
-     switch, s 切换到使用指定的版本。
+     install, i  安装远程可用的jdk
+     switch, s   切换到使用指定的版本。
      remove, rm  删除特定版本。
-rls 显示可供下载的     版本列表。
-proxy 设置用于下载的     代理。
-     help, h 显示命令列表或一个命令的帮助
-的
-全球选项：
+     rls         显示可供下载的版本列表。
+     proxy       设置用于下载的代理。
+     help, h     显示命令列表或一个命令的帮助
+
+GLOBAL OPTIONS:
    --help , -h     显示帮助
    --version , -v  打印版本
 ```
