@@ -52,15 +52,15 @@
     "url":"https://mirrors.huaweicloud.com/openjdk/9.0.4/openjdk-9.0.4_windows-x64_bin.tar.gz"
   },
   {
-    "version":"8.0.372",
-    "url":"https://cdn.azul.com/zulu/bin/zulu8.70.0.23-ca-jdk8.0.372-win_x64.zip"
+    "version":"8.0.3",
+    "url":"https://cdn.azul.com/zulu/bin/zulu8.74.0.17-ca-jdk8.0.392-win_x64.zip"
   },
   {
-    "version":"7.0.352",
+    "version":"7.0.3",
     "url":"https://cdn.azul.com/zulu/bin/zulu7.56.0.11-ca-jdk7.0.352-win_x64.zip"
   },
   {
-    "version":"6.0.119",
+    "version":"6.0.1",
     "url":"https://cdn.azul.com/zulu/bin/zulu6.22.0.3-jdk6.0.119-win_x64.zip"
   }
 ]
