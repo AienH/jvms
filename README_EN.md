@@ -1,6 +1,6 @@
 # JDK Version Manager (JVMS) for Windows
 
-**📝[中文文档](https://github.com/AienH/jvms/blob/main/README.md)**
+**📝[中文文档](https://github.com/AienH/jvms/blob/master/README.md)**
 
 Manage multiple installations of JDK on a Windows computer.
 [JVMS](https://github.com/ystyle/jvms), [Download Now](https://github.com/ystyle/jvms/releases)!
