@@ -101,7 +101,7 @@ GLOBAL OPTIONS:
   
   
   
-- 将此文件复制到静态文件服务器，如 nginx、apache 等。
+- 将此文件复制到静态文件服务器，如 **nginx**、**apache** 等。
 
 - `jvms init --originalpath http://192.168.1.101/files/index.json`顺便运行一下，`jvms init --java_home`可以修改默认的JAVA_HOME
 
