@@ -12,8 +12,8 @@
     "url":"https://mirrors.huaweicloud.com/openjdk/19.0.2/openjdk-19.0.2_windows-x64_bin.zip"
   },
   {
-    "version":"18.0.2.1",
-    "url":"https://mirrors.huaweicloud.com/openjdk/18.0.2.1/openjdk-18.0.2.1_windows-x64_bin.zip"
+    "version":"18.0.2",
+    "url":"https://mirrors.huaweicloud.com/openjdk/18.0.2/openjdk-18.0.2_windows-x64_bin.zip"
   },
   {
     "version":"17.0.2",
